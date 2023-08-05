@@ -1,9 +1,15 @@
-👦 I'm a passionate UI/UX Engineer from Italy, currently pursuing a Master's degree in the Netherlands and Finland. 🌍 
+### About me
+- 👦 Passionate UI/UX Engineer from Italy, currently pursuing a Master's degree in the Netherlands and Finland. 🌍 
+- 💻 Former Flutter developer with a focus on crafting seamless user experiences. Open to exciting opportunities and collaborations. 
 
-💻 Former Flutter developer with a focus on crafting seamless user experiences. Open to exciting opportunities and collaborations. 
+### Currently working on:
+- **FlutterBooksPlus**: An open-source book about intermediate and advanced Flutter topics;
+- **Lectura**: (not available yet) Flutter app to menage your readings;
+- **FlutterAnimationsStudio**: (not available yet) Web App to interactively create Flutter animations and generate live Dart code.
 
-- 🔭 Currently working on: FlutterBooksPlus, Lectura, FlutterAnimationsStudio
-- 📫 gianluca.romeo@email.com
+### Contacts
+- Email: gianluca.romeo@email.com
+- LinkedIn: https://www.linkedin.com/in/gianluca-romeo/
 <!--
 **gianlucaromeo/gianlucaromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
