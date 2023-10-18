@@ -4,8 +4,8 @@
 
 ### Currently working on:
 - **FlutterBooksPlus**: An open-source book about intermediate and advanced Flutter topics;
-- **Lectura**: (⚠️ WIP) Flutter app to menage your readings;
-- **FlutterAnimationsStudio**: (⚠️ WIP) Web App to interactively create Flutter animations and generate live Dart code.
+- **Lectura**: Flutter app to menage your readings;
+- **FlutterAnimationsStudio**: Web App to interactively create Flutter animations and generate live Dart code.
 
 ### Contacts
 - Email: gianluca.romeo@email.com
