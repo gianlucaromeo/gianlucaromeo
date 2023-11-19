@@ -1,5 +1,5 @@
 ### About me
-- 👦 Passionate UI/UX Engineer from Italy, currently pursuing a Master's degree in the Netherlands and Finland. 🌍 
+- 👦 From Italy -> currently pursuing a Master's degree in the Netherlands and Finland. 🌍 
 - 💻 Former Flutter developer with a focus on crafting seamless user experiences. Open to exciting opportunities and collaborations. 
 
 ### Currently working on:
