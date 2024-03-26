@@ -1,15 +1,18 @@
 ### About me
-- 👦 From Italy -> currently pursuing a Master's degree in the Netherlands and Finland. 🌍 
-- 💻 Former Flutter developer with a focus on crafting seamless user experiences. Open to exciting opportunities and collaborations. 
+- 👦 From Italy, currently in the Netherlands, and soon in Finland
+- 💻 BSc in Computer Science
+- 💼 Worked as Flutter Developer for 1 year 
 
 ### Currently working on:
-- **FlutterBooksPlus**: An open-source book about intermediate and advanced Flutter topics;
-- **Lectura**: Flutter app to menage your readings;
-- **FlutterAnimationsStudio**: Web App to interactively create Flutter animations and generate live Dart code.
+- **100-Days-Of-Code-Challenge**: Learning and coding funny things in public 👀
+- **FlutterAnimationsStudio**: Web App to interactively create Flutter animations and generate live Dart code 🤟
+- **Private side projects**: a few "startup" projects 🚀
 
 ### Contacts
 - Email: gianluca.romeo@email.com
 - LinkedIn: https://www.linkedin.com/in/gianluca-romeo/
+- Threads: https://www.threads.net/@__gianluc4
+- X (Twitter): https://twitter.com/__gianluc4
 <!--
 **gianlucaromeo/gianlucaromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
