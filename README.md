@@ -1,12 +1,12 @@
 ### About me
-- 👦 From Italy, currently in the Netherlands, and soon in Finland
-- 💻 BSc in Computer Science
-- 💼 Worked as Flutter Developer for 1 year 
+👦 From Italy, currently in the Netherlands, and soon in Finland
+💻 BSc in Computer Science
+💼 Worked as Flutter Developer for 1 year 
 
 ### Currently working on:
-- **100-Days-Of-Code-Challenge**: Learning and coding funny things in public 👀
-- **FlutterAnimationsStudio**: Web App to interactively create Flutter animations and generate live Dart code 🤟
-- **Private side projects**: a few "startup" projects 🚀
+- `100 Days Of Code Challenge`: Learning and coding funny things in public for 100 days 🚀
+- `Flutter Animations Studio`: Web App to interactively create Flutter animations and generate live Dart code 🤟
+- `Private side projects`: A few "startup" projects 👀
 
 ### Contacts
 - Email: gianluca.romeo@email.com
