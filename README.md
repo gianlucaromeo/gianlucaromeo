@@ -1,6 +1,11 @@
 ### About me
-👦 From Italy, currently in the Netherlands, and soon in Finland
+&nbsp;
+🗺️ From Italy, currently in the Netherlands, and soon in Finland
+
+&nbsp;
 💻 BSc in Computer Science
+
+&nbsp;
 💼 Worked as Flutter Developer for 1 year 
 
 ### Currently working on:
