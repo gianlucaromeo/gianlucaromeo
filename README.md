@@ -11,6 +11,7 @@
 ### Currently working on:
 - `100 Days Of Code Challenge`: Learning and coding funny things in public for 100 days 🚀
 - `Flutter Animations Studio`: Web App to interactively create Flutter animations and generate live Dart code 🤟
+- `Lectura`: A full-stack open-source app in Ruby on Rails and Flutter
 - `Private side projects`: A few "startup" projects 👀
 
 ### Contacts
