@@ -1,5 +1,5 @@
 ## About me
-If I am not coding or training, you will probably find me reading books or listening to Blink-182.
+If I am not coding or training, you will find me reading books or listening to Blink-182.
 <br>
 
 ## Studies and work experience
