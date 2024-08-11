@@ -14,6 +14,3 @@ I am always down for a coffee or a chat with interesting people like you.
 - Threads: https://www.threads.net/@__gianluc4
 - X (Twitter): https://twitter.com/__gianluc4
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucaromeo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucaromeo&layout=compact)
