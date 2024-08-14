@@ -1,14 +1,14 @@
-## About me
-If I am not coding or training, you will find me reading books or listening to Blink-182.
+# About me 👨🏼‍💻🏋️‍♂️📚🎧
+If I am not coding or training, you will find me reading books or listening to Blink-182. 
 <br>
 
 ## Studies and work experience
-- 🇮🇹 '19-'22 - **BSc** in `Computer Science`. 
-- 🏠 '22-'23 - Worked as `Flutter Developer`.
-- 🇳🇱 '23-'24 - **MSc** in `Interaction Technology`
-- 🇫🇮 '24-'25 - **MSc** in `Cross-device interaction` (Expected)
+- 🇮🇹 2019-2022 | `Computer Science` | **BSc**. 
+- 🏠 2022-2023 | `Flutter Developer` | **Work**.
+- 🇳🇱 2023-2024 | `Interaction Technology` | **MSc**.
+- 🇫🇮 2024-2025 | `Cross-device interaction` | **MSc**] (Present).
 
-### Contacts
+### Get in touch 🤙
 - 📫 [E-mail](mailto:gianlucaromeo@outlook.com)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/gianluca-romeo/)
 - **@** [Threads](https://www.threads.net/@__gianluc4)
