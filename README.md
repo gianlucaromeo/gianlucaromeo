@@ -18,7 +18,7 @@ If I am not coding or training, you will find me reading books or listening to B
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,swift)](https://skillicons.dev)
 
 ## I used to work a lot with
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,processing,arduino,gitlab,linux,mysql,postgres,postman,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,processing,arduino,gitlab,linux,mysql,postgres,postman)](https://skillicons.dev)
 
 ### Get in touch 🤙
 - 📫 [E-mail](mailto:gianlucaromeo@outlook.com)
