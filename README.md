@@ -11,7 +11,7 @@ If I am not coding or training, you will find me reading books or listening to B
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,py,postman,androidstudio,vscode,git,github,figma,materialui)](https://skillicons.dev)
 
 ## I am learning
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,sequelize,gcp,ts,ruby,rails,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,sequelize,gcp,aws,ts,ruby,rails,swift)](https://skillicons.dev)
 
 ## I used to work a lot with
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,processing,arduino,gitlab,linux,mysql,postgres)](https://skillicons.dev)
