@@ -1,6 +1,6 @@
 ## Hey - My name is Gianluca 🤝
 
-I'm a frontend engineer, obsessed with user-centric design.
+I'm a frontend engineer, passionate about user-centric design.
 
 > I believe in learning concepts more than frameworks and languages.
 
