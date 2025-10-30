@@ -8,7 +8,7 @@ I'm a frontend engineer, passionate about user-centric design.
 
 * 🚅 I can design performant frontends, and develop them with **React.js** (web) and **Flutter** (mobile).
 
-* 🔙 I'm getting better at developing backends with **Django** (REST Framework) and **FastAPI**, but for something quick I go with **Firebase**.
+* 🔙 I'm getting better at developing backends with **Django** (REST Framework) and **FastAPI**, but for something quick I go with **Firebase**. I also use **Next.js** and **tRPC**.
 
 * 🦺 I safely store data in **MySQL**, **Postgres**, or **Firestore**.
 
