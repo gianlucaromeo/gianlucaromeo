@@ -1,6 +1,6 @@
 ## Hey - My name is Gianluca 🤝
 
-I'm a frontend engineer, passionate about user-centric design.
+I'm a software engineer, passionate about user-centric design.
 
 > I believe in learning concepts more than frameworks and languages.
 
@@ -15,8 +15,3 @@ I'm a frontend engineer, passionate about user-centric design.
 * 😖 I'm learning more about **Docker**.
 
 * 👴 I have past experience with C++, Java, Processing.
-
-
-### Let's get in contact
-
-You can contact me for any tech-related question or chat 🤙
